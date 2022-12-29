@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Hakan</h1>
 
 
-<h2 align="center"> Automation Software Test Engineer from Turkey</h2>
+<h2 align="center"> Python & Java Developer, Software Testing Engineer  from Turkey</h2>
 
 
 ![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
@@ -50,19 +50,3 @@
 [<img height="40" width="40" src="https://raw.githubusercontent.com/github/explore/5b3600551e122a3277c2c5368af2ad5725ffa9a1/topics/github/github.png">][github]
 
 
-
-### &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/mellonriddle">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=berkansonmezay&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=berkansonmezay&layout=compact&langs_count=8&theme=algolia"/>
-
- <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=mellonriddle&&style=flat-square" align="center" />
-</div> 
- 
- 
- 
- </a>
-</p>
