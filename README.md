@@ -45,7 +45,7 @@
 [linkedin]: https://www.linkedin.com/
 
 <h3> Tools I Use:</h3>
-![PyCharm_Icon]()
+
 
 [<img height="40" width="40" src="https://user-images.githubusercontent.com/97381506/210129659-865ce12a-dc45-4ae8-97b8-48c824e79a61.png">][pycharm]
 [<a href="https://www.jetbrains.com/idea/features/" target="_blank" rel=”noopener”> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQalKFwVDd0H7Xx8HaqWBbUmDRdrgxUoicGBZC0eIzTsww7Sev-ySXJ3in9Udv2R9CR3lo&usqp=CAU" alt="IntelliJ" width="40" height="40"/> </a>][intellij]
