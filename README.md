@@ -1,16 +1,16 @@
-<h1 align="center">Hi, I'm Hakan</h1>
+<h1 align="center">Hi, I'm Erkam</h1>
 
 
 <h2 align="center"> Python & Java Developer, Software Testing Engineer  from Turkey</h2>
 
 
-![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
+
  
    -📫 How to reach me **arashboro18@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mellonriddle/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/erkam-tamer/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mellonriddle/" height="30" width="40" /></a>
 
 </p>
 </p>
