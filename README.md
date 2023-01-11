@@ -3,7 +3,7 @@
 
 <h2 align="center"> Python & Java Developer, Software Testing Engineer  from Turkey</h2>
 
-
+![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
 
  
    -📫 How to reach me **arashboro18@gmail.com**
