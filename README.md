@@ -6,7 +6,7 @@
 ![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
 
  
-   -📫 How to reach me **arashboro18@gmail.com**
+   -📫 How to reach me **kubraceylan90@icloud.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
