@@ -1,7 +1,7 @@
-<h1 align="center">Hi, I'm Kubra</h1>
+<h1 align="center">Hi, I'm Tamer</h1>
 
 
-<h2 align="center"> Python & Java Developer, Software Testing Engineer  from Turkey</h2>
+<h2 align="center"> Python & Java Developer, Software Testing Engineer from Turkey</h2>
 
 ![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
 
