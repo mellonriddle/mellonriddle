@@ -3,14 +3,19 @@
 
 <h2 align="center"> Python & Java Developer, Software Testing Engineer from Turkey</h2>
 
-![snake gif](https://github.com/bulutluoz/Java-fall-2021/blob/output/github-contribution-grid-snake.gif)
+
 
  
-   -📫 How to reach me **kubraceylan90@icloud.com**
+
+-📫 How to reach me **tamer89ahmet@gmail.com**
+
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/kubra-ceylan/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mellonriddle/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/tamer-ahmet/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mellonriddle/" height="30" width="40" /></a>
+
 
 </p>
 </p>
